@@ -204,13 +204,13 @@ h1{
 </head>
 
 <body>
-<h1>可愛の卡娜赫拉小動物們</h1>
-<p>卡納赫拉</p>
+<h1>限時特惠指定品項買一送一</h1>
+<p>莓好時光</p>
 
 
 
 <div class="full-screen" align="center">
-<img src="001.gif">
+<img src="大苑子.jpg">
 </div>
 
 
